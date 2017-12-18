@@ -5,6 +5,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement
 public class Team {
+	
 	Long id;
 	String name;
 	String location;
